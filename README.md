@@ -25,7 +25,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ⚠️ **Do not** run unless you know what it does ⚠️
 
 ```bash
-$ ./install
+$ sh bootstrap.sh
 ```
 
 To install the brew tools and apps:
