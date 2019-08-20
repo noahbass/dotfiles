@@ -1,0 +1,9 @@
+# Common shortcuts
+alias reload="source ~/.zshrc"
+alias rr="rm -rf"
+alias aliases="$EDITOR $HOME/.zsh_aliases && reload"
+
+alias dl="cd ~/Downloads"
+
+alias g="git"
+alias gs="git status"
