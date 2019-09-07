@@ -18,3 +18,7 @@ fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
+
+# Use brew installed ruby
+export PATH="$(brew --prefix ruby)/bin:$PATH"
+export PATH="$(gem environment gemdir)/bin:$PATH"

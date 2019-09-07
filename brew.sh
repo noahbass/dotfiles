@@ -13,6 +13,7 @@ brew install dep
 brew install yarn
 brew install python
 brew install pipenv
+brew install ruby
 
 # Utilities
 brew install wget
